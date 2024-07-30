@@ -1,5 +1,5 @@
 Artificial Intelligence (AI) is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence. These tasks include problem-solving, understanding natural language, recognizing patterns, and making decisions. The goal of AI research is to develop machines that can mimic or even surpass human cognitive abilities.
-
+hello
 Key Areas of AI
 
 1. Machine Learning (ML)
